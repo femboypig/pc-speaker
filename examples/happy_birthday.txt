@@ -1,0 +1,40 @@
+# Мелодия Happy Birthday (С Днем Рождения)
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Happy Birthday to you
+C4 Q
+C4 E
+D4 Q
+C4 Q
+F4 Q
+E4 H
+
+# Happy Birthday to you
+C4 Q
+C4 E
+D4 Q
+C4 Q
+G4 Q
+F4 H
+
+# Happy Birthday dear Name
+C4 Q
+C4 E
+C5 Q
+A4 Q
+F4 Q
+E4 Q
+D4 Q
+
+# Happy Birthday to you
+AS4 Q
+AS4 E
+A4 Q
+F4 Q
+G4 Q
+F4 H 

@@ -1,0 +1,81 @@
+# Тема из "Игры Престолов" (Game of Thrones)
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Основная тема
+G4 Q
+C4 Q
+DS4 E
+F4 E
+G4 Q
+C4 Q
+DS4 E
+F4 E
+
+G4 Q
+C4 Q
+DS4 E
+F4 E
+G4 E
+C4 E
+DS4 E
+F4 E
+G4 E
+C4 E
+DS4 E
+F4 E
+
+# Средняя часть (мощная)
+G4 H
+C5 H
+G4 E
+F4 Q
+DS4 E
+F4 Q
+G4 E
+C4 Q
+DS4 E
+F4 E
+G4 H
+
+G4 H
+C5 H
+G4 E
+F4 Q
+DS4 E
+F4 Q
+G4 E
+C4 E
+DS4 E
+F4 E
+D4 H
+
+# Финальная часть
+F4 H
+AS4 H
+F4 E
+DS4 Q
+D4 E
+DS4 Q
+F4 E
+AS3 E
+D4 E
+DS4 E
+F4 H
+
+# Завершение
+G4 H
+C5 H
+G4 E
+F4 Q
+DS4 E
+F4 Q
+G4 E
+C4 Q
+DS4 E
+F4 E
+G4 H 

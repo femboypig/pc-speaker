@@ -1,0 +1,87 @@
+# The Legend of Zelda - Main Theme
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Вступительная фанфара
+B4 Q
+REST E
+G4 H
+REST E
+D4 Q
+REST E
+G4 H
+REST Q
+
+# Основная тема - часть 1
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+C5 E
+D5 Q
+REST E
+G4 E
+A4 E
+B4 Q
+REST E
+C5 E
+D5 E
+E5 Q
+REST E
+F5 Q
+D5 Q
+
+# Основная тема - часть 2
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+C5 E
+D5 Q
+REST E
+G5 Q
+F5 E
+F5 E
+D5 Q
+REST E
+
+# Драматичная часть
+G4 E
+B4 E
+D5 E
+G5 Q
+D5 Q
+C5 E
+B4 E
+A4 Q
+B4 E
+C5 E
+D5 Q
+E5 E
+F5 E
+G5 H
+
+# Повторение начальной темы
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+A4 E
+B4 E
+C5 E
+D5 Q
+REST E
+G4 E
+A4 E
+B4 Q 

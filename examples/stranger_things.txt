@@ -1,0 +1,92 @@
+# Stranger Things Theme
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Основной синтезаторный арпеджио - замедлим для PC Speaker
+C5 E
+E5 E
+G5 E
+B5 E
+C6 E
+B5 E
+G5 E
+E5 E
+
+# Повтор
+C5 E
+E5 E
+G5 E
+B5 E
+C6 E
+B5 E
+G5 E
+E5 E
+
+# Основная тема - часть 1
+C5 E
+C5 E
+C5 E
+C5 E
+REST E
+C5 E
+REST E
+D5 E
+REST E
+E5 Q
+REST E
+
+C5 E
+C5 E
+C5 E
+C5 E
+REST E
+C5 E
+REST E
+D5 E
+E5 E
+C5 H
+
+# Основная тема - часть 2 (более напряженная)
+C5 E
+C5 E
+C5 E
+C5 E
+REST E
+C5 E
+REST E
+D5 E
+REST E
+E5 Q
+REST E
+
+C5 E
+REST E
+C5 E
+REST E
+G5 E
+F5 E
+E5 E
+D5 E
+C5 H
+
+# Финал (пульсирующий)
+C5 E
+E5 E
+G5 E
+B5 E
+C6 E
+B5 E
+G5 E
+E5 E
+C5 E
+E5 E
+G5 E
+B5 E
+C6 E
+B5 E
+G5 E
+E5 H 

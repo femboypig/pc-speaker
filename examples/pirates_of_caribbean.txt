@@ -1,0 +1,105 @@
+# Пираты Карибского моря - He's a Pirate
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Интро
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+
+# Основная тема
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+A4 E
+REST E
+C5 E
+REST E
+D5 Q
+REST E
+
+D5 E
+D5 E
+D5 E
+E5 E
+F5 E
+F5 E
+F5 E
+G5 E
+REST E
+E5 E
+REST E
+D5 E
+C5 E
+C5 Q
+
+# Вторая часть
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+D4 E
+A4 E
+REST E
+C5 E
+REST E
+D5 Q
+REST E
+
+D5 E
+D5 E
+D5 E
+E5 E
+F5 E
+F5 E
+F5 E
+G5 E
+REST E
+E5 E
+REST E
+D5 E
+C5 E
+D5 Q
+
+# Финальная часть (эпическая)
+A4 E
+C5 E
+D5 Q
+D5 E
+E5 E
+F5 Q
+F5 E
+G5 E
+E5 Q
+A4 E
+C5 E
+D5 Q
+D5 E
+F5 E
+E5 E
+D5 E
+C5 E
+D5 H 

@@ -1,0 +1,95 @@
+# К Элизе (Fur Elise) - Людвиг ван Бетховен
+# Формат: НОТА ДЛИТЕЛЬНОСТЬ
+# W - целая (1000 мс)
+# H - половинная (500 мс)
+# Q - четвертная (250 мс)
+# E - восьмая (125 мс)
+# S - шестнадцатая (63 мс)
+
+# Основная тема
+E5 E
+DS5 E
+E5 E
+DS5 E
+E5 E
+B4 E
+D5 E
+C5 E
+A4 Q
+REST E
+
+# Повтор
+C4 E
+E4 E
+A4 E
+B4 E
+REST E
+E4 E
+GS4 E
+B4 E
+C5 Q
+REST E
+
+# Снова первая часть
+E5 E
+DS5 E
+E5 E
+DS5 E
+E5 E
+B4 E
+D5 E
+C5 E
+A4 Q
+REST E
+
+# Повтор
+C4 E
+E4 E
+A4 E
+B4 E
+REST E
+E4 E
+C5 E
+B4 E
+A4 H
+
+# Средняя часть (более быстрая)
+B4 E
+C5 E
+D5 E
+E5 E
+G4 E
+F5 E
+E5 E
+D5 E
+F4 E
+E5 E
+D5 E
+C5 E
+E4 E
+D5 E
+C5 E
+B4 E
+
+# Возвращение к основной теме
+E5 E
+DS5 E
+E5 E
+DS5 E
+E5 E
+B4 E
+D5 E
+C5 E
+A4 Q
+REST E
+
+# Финальная часть
+C4 E
+E4 E
+A4 E
+B4 E
+REST E
+E4 E
+C5 E
+B4 E
+A4 H 
